@@ -3,5 +3,5 @@
 
 Pagina basada en https://talentosdigitales.ar/
 
-Alumno: Serial Geronimo
+Alumnos: Cintas Alejandro Serial Geronimo
 "# PrimerProyecto" 
